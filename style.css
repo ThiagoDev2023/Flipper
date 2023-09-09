@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background:linear-gradient(.25turn, rgb(177, 2, 124), 40%, rgb(137, 33, 255));
+}
+
+.header, .form-group {
+    margin: 20px;
+    color: white;
+}
+
+.divContent {
+    background-color: rgb(208, 107, 255);
+    padding: 30px;
+    border-radius: 30px;
+}
+
+.logo {
+    width: 30%;
+}
+#trending{
+    margin-top: 30px;
+    color: white;
+}
+.nomeSala{
+    font-size: 20px;
+    padding: 15px;
+    cursor: pointer;
+}
+.nomeSala:hover{
+background-color: antiquewhite;
+}
